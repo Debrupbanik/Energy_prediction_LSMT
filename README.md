@@ -1,4 +1,4 @@
-# Energy_prediction_LSMT
+# Energy prediction using LSMT
 
 
 ## Project Description
