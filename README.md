@@ -22,12 +22,5 @@ With increasing global energy demands and the necessity for efficient power mana
 - **EV (Electric Vehicle) Charging Optimization**: Smart scheduling for charging electric vehicles based on demand forecasting.
 - **Blockchain-based Smart Contracts**: Secure energy transactions and consumption tracking.
 
-## Installation & Setup
-### Prerequisites
-- Python 3.x
-- TensorFlow
-- Pandas
-- Seaborn
-- Streamlit
 
 
